@@ -14,5 +14,6 @@ my expertise in web-technology, web-design, data analysis and bi analysis.
 current project
 
 # Android project Development
-## Pandas
 ### web development
+## Pandas
+
