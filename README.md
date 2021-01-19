@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub
 
-You can use the [editor on GitHub](https://github.com/kamleshkarki/KamleshKarki/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a BI DEVELOPER & DATA ANALYST">I'm a BI DEVELOPER & DATA ANALYST.
+my expertise in web-technology, web-design, data analysis and bi analysis.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+• DEEP LEARNING  • MIS
+• WEB DESIGN     • DATA ANALYST
+• BI DEVELOPER   • FIGMA DESIGN
+
 
 ```markdown
 Syntax highlighted code block
