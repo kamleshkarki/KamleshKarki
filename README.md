@@ -1,7 +1,7 @@
 ## Welcome to GitHub
 
 I'm a BI DEVELOPER & DATA ANALYST"
-my expertise in Tableau, BI tools, web-technology, web-design, data analysis and analysis.
+my expertise in Tableau, BI tools, figma, web-design, data analysis and analysis.
 
 ### Tools and technology
 
@@ -17,6 +17,5 @@ current project
 # Android project Development
 ### web development
 
-```markdown
 upcomming project
 ## voice recognition with bi tools 
