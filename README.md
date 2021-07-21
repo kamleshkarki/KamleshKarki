@@ -18,4 +18,4 @@ current project
 ### web development
 
 upcomming project
-## voice recognition with bi tools 
+# voice recognition with bi tools 
