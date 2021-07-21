@@ -1,19 +1,22 @@
 ## Welcome to GitHub
 
 I'm a BI DEVELOPER & DATA ANALYST"
-my expertise in web-technology, web-design, data analysis and bi analysis.
+my expertise in Tableau, BI tools, web-technology, web-design, data analysis and analysis.
 
 ### Tools and technology
 
-• DEEP LEARNING  • MIS
+• DEEP LEARNING  • Tableau
+• BI DEVELOPER   • ML
 • WEB DESIGN     • DATA ANALYST
-• BI DEVELOPER   • FIGMA DESIGN
+• MIS            • FIGMA DESIGN
 
 
 ```markdown
 current project
-
+## Pandas
 # Android project Development
 ### web development
-## Pandas
 
+```markdown
+upcomming project
+## voice recognition with bi tools 
