@@ -9,13 +9,14 @@ my expertise in Tableau, BI tools, figma, web-design, data analysis and analysis
 • BI DEVELOPER   • ML
 • WEB DESIGN     • DATA ANALYST
 • MIS            • FIGMA DESIGN
-
+• Power Bi
 
 ```markdown
 current project
-# Android project Development
-## Pandas
-### web development
+# Power Bi 
+## Android project Development
+### Pandas
+#### web development
 
 upcomming project
 # voice recognition with bi tools 
