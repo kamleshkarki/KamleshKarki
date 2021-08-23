@@ -13,7 +13,7 @@ my expertise in Tableau, BI tools, figma, web-design, data analysis and analysis
 
 ```markdown
 current project
-# Power Bi 
+# Tableau 2021.1 
 ## Android project Development
 ### Pandas
 #### web development
