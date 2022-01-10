@@ -3,7 +3,7 @@
 I'm a BI DEVELOPER & DATA ANALYST"
 my expertise in Tableau, BI tools, figma, web-design, data analysis and analysis.
 
-### Tools and technology
+## Tools and technology
 
 • TABLEAU        • DEEP LEARNING
 • BI DEVELOPER   • ML
