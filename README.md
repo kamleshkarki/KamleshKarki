@@ -19,5 +19,5 @@ current project
 #### web development
 
 upcomming project
-# Microsoft azure
-# voice recognition with bi tools 
+# Microstrategy
+# Voice recognition with bi tools 
