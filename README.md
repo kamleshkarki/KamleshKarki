@@ -12,13 +12,13 @@ my expertise in Tableau, BI tools, figma, web-design, data analysis and analysis
 • Power Bi
 
 ```markdown
-current project
+Current project
 # Tableau 2022.4. 
 ## web development
 ### Pandas
 
 
-upcomming project
+Upcomming project
 # Voice recognition with bi tools
 # Microstrategy
 # Dax
