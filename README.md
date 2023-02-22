@@ -14,8 +14,8 @@ my expertise in Tableau, BI tools, figma, web-design, data analysis and analysis
 ```markdown
 current project
 # Tableau 2022.4. 
-#### web development
-## Pandas
+## web development
+### Pandas
 
 
 upcomming project
